@@ -4,6 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="{{ asset('css/app.css') }}" type="text/css">
+        <link rel="icon" type="image/png" href="{{ asset('img/hello_favicon.png') }}" sizes="56x56">
 
         <title>hello.ir - immobilien netzwerk</title>
 
