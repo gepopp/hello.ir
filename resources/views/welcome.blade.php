@@ -64,6 +64,11 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+            .form-control{
+                border-radius: 0 !important;
+                border: none !important;
+                border-bottom: 1px solid #5896d0 !important;
+            }
         </style>
     </head>
     <body>
@@ -97,7 +102,7 @@
                         <div class="input-group-prepend">
                             <div class="input-group-text bg-transparent border-0">@</div>
                         </div>
-                        <input type="email" class="form-control border-bottom" id="inlineFormInputGroupUsername2" placeholder="Username">
+                        <input type="email" class="form-control" id="inlineFormInputGroupUsername2" placeholder="Username">
                     </div>
 
                     <div class="form-check mb-2 mr-sm-2">
