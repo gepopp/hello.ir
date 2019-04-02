@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="{{ asset('css/app.css') }}" type="text/css">
+        <link href="{{ asset('css/app.css') }}" type="text/css" rel="stylesheet">
         <link rel="icon" type="image/png" href="{{ asset('img/hello_favicon.png') }}" sizes="56x56">
 
         <title>hello.ir - immobilien netzwerk</title>
@@ -94,13 +94,13 @@
                     <p>
                         <label for="fieldEmail">E-Mail</label>
                         <br />
-                        <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="js-cm-email-input"
+                        <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="js-cm-email-input form-control"
                                required />
                     </p>
                     <div>
                         <input id="cm-privacy-consent" name="cm-privacy-consent" required type="checkbox"
                         />
-                        <label for="cm-privacy-consent">Ja, ich hello.ir Mails erhalten.</label>
+                        <label for="cm-privacy-consent">Ja, ich will hello.ir Mails erhalten.</label>
                         <input id="cm-privacy-consent-hidden" name="cm-privacy-consent-hidden"
                                type="hidden" value="true" />
                     </div>
