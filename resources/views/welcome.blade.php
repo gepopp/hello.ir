@@ -91,13 +91,13 @@
                     Ein exklusives Netzwerk für alle die in der Branche was zu sagen haben.
                 </div>
 
-                <form class="form-inline">
+                <form class="form-inline justify-content-center">
                     <label class="sr-only" for="inlineFormInputGroupUsername2">Username</label>
                     <div class="input-group mb-2 mr-sm-2">
                         <div class="input-group-prepend">
-                            <div class="input-group-text">@</div>
+                            <div class="input-group-text bg-transparent border-0">@</div>
                         </div>
-                        <input type="text" class="form-control" id="inlineFormInputGroupUsername2" placeholder="Username">
+                        <input type="email" class="form-control border-bottom" id="inlineFormInputGroupUsername2" placeholder="Username">
                     </div>
 
                     <div class="form-check mb-2 mr-sm-2">
