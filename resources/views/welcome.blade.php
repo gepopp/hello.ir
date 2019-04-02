@@ -93,7 +93,7 @@
                 <form id="subForm" class="js-cm-form" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="30FEA77E7D0A9B8D7616376B90063231559560C2B49BDB229227B6C69FC82CE3F1BAFDD3C8279665E23F4FA100BF04A56905C95659DC77BCA4E1EFF287F689FD">
                     <div class="form-group w-50">
                         <label for="fieldEmail">E-Mail</label>
-                        <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="js-cm-email-input border-bottom border-primary" required />
+                        <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="js-cm-email-input form-control border-bottom border-primary" required />
                     </div>
 
 
