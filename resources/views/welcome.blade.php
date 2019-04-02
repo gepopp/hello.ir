@@ -94,7 +94,7 @@
 
                 <div class="links mb-3">
                     Ein exklusives Netzwerk für alle die in der Branche was zu sagen haben.
-                    <h3>hello.ir startet, wenn sie wissen wollen wann tragen sie sich in unseren e-mail verteiler ein.</h3>
+                    <h6 class="my-5">hello.ir startet, wenn sie wissen wollen wann tragen sie sich in unseren e-mail verteiler <ein class=""></ein></h6>
                 </div>
 
                 <form class="form-inline justify-content-center js-cm-form" id="subForm" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="30FEA77E7D0A9B8D7616376B90063231559560C2B49BDB229227B6C69FC82CE3F1BAFDD3C8279665E23F4FA100BF04A56905C95659DC77BCA4E1EFF287F689FD">
