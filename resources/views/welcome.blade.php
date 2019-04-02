@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="{{ asset('css/app.css') }}" type="text/css">
 
         <title>Laravel</title>
 
@@ -90,7 +91,7 @@
                 </div>
                 <form id="subForm" class="js-cm-form" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="30FEA77E7D0A9B8D7616376B90063231559560C2B49BDB229227B6C69FC82CE3F1BAFDD3C8279665E23F4FA100BF04A56905C95659DC77BCA4E1EFF287F689FD">
                     <p>
-                        <label for="fieldEmail">Email</label>
+                        <label for="fieldEmail">E-Mail</label>
                         <br />
                         <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="js-cm-email-input"
                                required />
@@ -98,12 +99,12 @@
                     <div>
                         <input id="cm-privacy-consent" name="cm-privacy-consent" required type="checkbox"
                         />
-                        <label for="cm-privacy-consent">I agree to be emailed</label>
+                        <label for="cm-privacy-consent">Ja, ich hello.ir Mails erhalten.</label>
                         <input id="cm-privacy-consent-hidden" name="cm-privacy-consent-hidden"
                                type="hidden" value="true" />
                     </div>
                     <p>
-                        <button class="js-cm-submit-button btn btn-light" type="submit">Subscribe</button>
+                        <button class="js-cm-submit-button btn btn-light" type="submit">anmelden</button>
                     </p>
                 </form>
                 <script type="text/javascript" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
