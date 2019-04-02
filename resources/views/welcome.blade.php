@@ -106,7 +106,7 @@
                         <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="form-control js-cm-email-input" id="inlineFormInputGroupUsername2" placeholder="e-mail adresse" required>
                     </div>
                     <div class="form-check mb-2 mr-sm-2">
-                        <input id="cm-privacy-consent" name="cm-privacy-consent" required type="checkbox" />
+                        <input id="cm-privacy-consent" name="cm-privacy-consent" required type="checkbox" class="mr-3" />
                         <label class="form-check-label pr-3" for="inlineFormCheck">
                              Ja, ich will hello.ir Mails erhalten.
                         </label>
