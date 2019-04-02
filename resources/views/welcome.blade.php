@@ -88,6 +88,25 @@
                 <div class="links">
                     Ein exklusives Netzwerk für alle die in der Branche was zu sagen haben.
                 </div>
+                <form id="subForm" class="js-cm-form" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="30FEA77E7D0A9B8D7616376B90063231559560C2B49BDB229227B6C69FC82CE3F1BAFDD3C8279665E23F4FA100BF04A56905C95659DC77BCA4E1EFF287F689FD">
+                    <p>
+                        <label for="fieldEmail">Email</label>
+                        <br />
+                        <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="js-cm-email-input"
+                               required />
+                    </p>
+                    <div>
+                        <input id="cm-privacy-consent" name="cm-privacy-consent" required type="checkbox"
+                        />
+                        <label for="cm-privacy-consent">I agree to be emailed</label>
+                        <input id="cm-privacy-consent-hidden" name="cm-privacy-consent-hidden"
+                               type="hidden" value="true" />
+                    </div>
+                    <p>
+                        <button class="js-cm-submit-button btn btn-light" type="submit">Subscribe</button>
+                    </p>
+                </form>
+                <script type="text/javascript" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js"></script>
             </div>
         </div>
     </body>
