@@ -89,7 +89,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    <img src="{{ asset('img/hello_logo.svg') }}" style="width: 50vw; height: auto;">
+                    <img src="{{ asset('img/hello_logo.svg') }}" style="width: 50vw; max-width: 400px; height: auto;">
                 </div>
 
                 <div class="links mb-3">
