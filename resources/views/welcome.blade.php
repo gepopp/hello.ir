@@ -108,12 +108,12 @@
                     <div class="form-check mb-2 mr-sm-2">
                         <input id="cm-privacy-consent" name="cm-privacy-consent" required type="checkbox" class="mr-3" />
                         <label class="form-check-label pr-3" for="inlineFormCheck">
-                             Ja, ich will hello.ir Mails erhalten.
+                             ja, ich will hello.ir Mails erhalten.
                         </label>
                     </div>
 
                     <div class="form-check mb-2 mr-sm-2">
-                        <input id="listayklkt" name="cm-ol-ayklkt" type="checkbox" />
+                        <input id="listayklkt" name="cm-ol-ayklkt" type="checkbox" class="mr-3" />
                         <label for="listayklkt">e-maills, der redaktion erhalten</label>
                     </div>
                     <input id="cm-privacy-consent-hidden" name="cm-privacy-consent-hidden"
