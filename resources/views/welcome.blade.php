@@ -90,10 +90,31 @@
                 <div class="links">
                     Ein exklusives Netzwerk für alle die in der Branche was zu sagen haben.
                 </div>
+
+                <form class="form-inline">
+                    <label class="sr-only" for="inlineFormInputGroupUsername2">Username</label>
+                    <div class="input-group mb-2 mr-sm-2">
+                        <div class="input-group-prepend">
+                            <div class="input-group-text">@</div>
+                        </div>
+                        <input type="text" class="form-control" id="inlineFormInputGroupUsername2" placeholder="Username">
+                    </div>
+
+                    <div class="form-check mb-2 mr-sm-2">
+                        <input class="form-check-input" type="checkbox" id="inlineFormCheck">
+                        <label class="form-check-label" for="inlineFormCheck">
+                            Remember me
+                        </label>
+                    </div>
+
+                    <button type="submit" class="btn btn-primary mb-2">Submit</button>
+                </form>
+
+
                 <form id="subForm" class="js-cm-form" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="30FEA77E7D0A9B8D7616376B90063231559560C2B49BDB229227B6C69FC82CE3F1BAFDD3C8279665E23F4FA100BF04A56905C95659DC77BCA4E1EFF287F689FD">
-                    <div class="form-group w-50">
+                    <div class="form-group">
                         <label for="fieldEmail">E-Mail</label>
-                        <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="js-cm-email-input form-control border-bottom border-primary" required />
+                        <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="js-cm-email-input form-control border-0 border-bottom border-primary" required />
                     </div>
 
 
