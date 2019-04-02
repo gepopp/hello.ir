@@ -94,7 +94,7 @@
                     <p>
                         <label for="fieldEmail">E-Mail</label>
                         <br />
-                        <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="js-cm-email-input form-control"
+                        <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="js-cm-email-input form-control w-50"
                                required />
                     </p>
                     <div>
