@@ -113,7 +113,6 @@
                     </div>
 
                     <div class="form-check mb-2 mr-sm-2">
-                    <div>
                         <input id="listayklkt" name="cm-ol-ayklkt" type="checkbox" />
                         <label for="listayklkt">e-maills, der redaktion erhalten</label>
                     </div>
