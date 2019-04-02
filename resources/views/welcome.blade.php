@@ -92,8 +92,9 @@
                     <img src="{{ asset('img/hello_logo.svg') }}" style="width: 500px; height: auto;">
                 </div>
 
-                <div class="links">
+                <div class="links mb-3">
                     Ein exklusives Netzwerk für alle die in der Branche was zu sagen haben.
+                    <h3>hello.ir startet, wenn sie wissen wollen wann tragen sie sich in unseren e-mail verteiler ein.</h3>
                 </div>
 
                 <form class="form-inline justify-content-center js-cm-form" id="subForm" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="30FEA77E7D0A9B8D7616376B90063231559560C2B49BDB229227B6C69FC82CE3F1BAFDD3C8279665E23F4FA100BF04A56905C95659DC77BCA4E1EFF287F689FD">
@@ -106,8 +107,8 @@
                     </div>
                     <div class="form-check mb-2 mr-sm-2">
                         <input id="cm-privacy-consent" name="cm-privacy-consent" required type="checkbox" />
-                        <label class="form-check-label" for="inlineFormCheck">
-                            Ja, ich will hello.ir Mails erhalten.
+                        <label class="form-check-label pr-3" for="inlineFormCheck">
+                             Ja, ich will hello.ir Mails erhalten.
                         </label>
                     </div>
                     <input id="cm-privacy-consent-hidden" name="cm-privacy-consent-hidden"
