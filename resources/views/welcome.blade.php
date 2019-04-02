@@ -91,12 +91,12 @@
                     Ein exklusives Netzwerk für alle die in der Branche was zu sagen haben.
                 </div>
                 <form id="subForm" class="js-cm-form" action="https://www.createsend.com/t/subscribeerror?description=" method="post" data-id="30FEA77E7D0A9B8D7616376B90063231559560C2B49BDB229227B6C69FC82CE3F1BAFDD3C8279665E23F4FA100BF04A56905C95659DC77BCA4E1EFF287F689FD">
-                    <p>
+                    <div class="form-group w-50">
                         <label for="fieldEmail">E-Mail</label>
-                        <br />
-                        <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="js-cm-email-input form-control w-50"
-                               required />
-                    </p>
+                        <input id="fieldEmail" name="cm-efhti-efhti" type="email" class="js-cm-email-input form-control border-0 border-bottom" required />
+                    </div>
+
+
                     <div>
                         <input id="cm-privacy-consent" name="cm-privacy-consent" required type="checkbox"
                         />
